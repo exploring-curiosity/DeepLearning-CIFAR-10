@@ -1,0 +1,34 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Akiba et~al.(2019)Akiba, Sano, Yanase, Ohta, and Koyama}]{akiba2019optuna}
+Akiba, T.; Sano, S.; Yanase, T.; Ohta, T.; and Koyama, M. 2019.
+\newblock Optuna: A Next-Generation Hyperparameter Optimization Framework.
+\newblock In \emph{Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, 2623--2631. Anchorage, AK, USA: ACM.
+
+\bibitem[{He et~al.(2016)He, Zhang, Ren, and Sun}]{he2016deep}
+He, K.; Zhang, X.; Ren, S.; and Sun, J. 2016.
+\newblock Deep Residual Learning for Image Recognition.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition}, 770--778. Las Vegas, NV, USA: IEEE.
+
+\bibitem[{OpenAI(2023)}]{openai2023chatgpt}
+OpenAI. 2023.
+\newblock ChatGPT: Optimizing Language Models for Dialogue.
+\newblock Accessed: 2025-03-14.
+
+\bibitem[{Perez and Wang(2017)}]{perez2017effectiveness}
+Perez, L.; and Wang, J. 2017.
+\newblock The Effectiveness of Data Augmentation in Image Classification using Deep Learning.
+\newblock \emph{arXiv preprint arXiv:1712.04621}.
+
+\bibitem[{Simonyan and Zisserman(2014)}]{simonyan2014very}
+Simonyan, K.; and Zisserman, A. 2014.
+\newblock Very Deep Convolutional Networks for Large-Scale Image Recognition.
+\newblock \emph{arXiv preprint arXiv:1409.1556}.
+
+\bibitem[{Zagoruyko and Komodakis(2016)}]{zagoruyko2016wide}
+Zagoruyko, S.; and Komodakis, N. 2016.
+\newblock Wide Residual Networks.
+\newblock In \emph{Proceedings of the British Machine Vision Conference}.
+
+\end{thebibliography}
